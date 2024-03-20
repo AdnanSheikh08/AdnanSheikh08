@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adnan Sheikh  
-- 👀 I’m interested in ... Data Science  
+- 👀 I’m interested in ... Web Developement,Machine Learning  
 - 🌱 I’m currently learning ... C++
 - 📫 How to reach me 7394910236
       
